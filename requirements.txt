@@ -1,0 +1,8 @@
+discord>=2.1.0
+pymysql
+pycryptodome
+python-dateutil
+
+# used by music
+yt-dlp
+PyNaCl
